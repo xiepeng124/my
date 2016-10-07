@@ -1,0 +1,5 @@
+XSym
+0069
+bdc3b2e67f620be6192ca55ab98350fd
+../../../../AMapNavi/AMapNaviKit.framework/Headers/AMapNaviWalkView.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

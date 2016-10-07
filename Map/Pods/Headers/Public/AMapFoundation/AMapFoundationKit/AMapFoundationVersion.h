@@ -1,0 +1,5 @@
+XSym
+0086
+943259ef03267c0e4e5988b68ed950c4
+../../../../AMapFoundation/AMapFoundationKit.framework/Headers/AMapFoundationVersion.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

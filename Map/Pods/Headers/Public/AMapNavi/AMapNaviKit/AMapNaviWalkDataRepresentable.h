@@ -1,0 +1,5 @@
+XSym
+0082
+0fcd57653abfc186e56b7340564b08e1
+../../../../AMapNavi/AMapNaviKit.framework/Headers/AMapNaviWalkDataRepresentable.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

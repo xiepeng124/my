@@ -1,0 +1,5 @@
+XSym
+0070
+b316db5f1e567220b2c66c7717a26983
+../../../../AMapNavi/AMapNaviKit.framework/Headers/AMapNaviCommonObj.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

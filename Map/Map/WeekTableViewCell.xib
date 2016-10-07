@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="10117" systemVersion="15G31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" rowHeight="449" id="KGk-i7-Jjw" customClass="WeekTableViewCell">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="449"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="448.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="星座3.gif" translatesAutoresizingMaskIntoConstraints="NO" id="tfr-9k-8du">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="448.5"/>
+                    </imageView>
+                    <textView clipsSubviews="YES" multipleTouchEnabled="YES" tag="3" contentMode="scaleToFill" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="vPe-0D-TSW">
+                        <rect key="frame" x="90" y="262" width="210" height="80"/>
+                        <color key="backgroundColor" red="0.59607770851965336" green="0.92548199542551057" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="height" relation="lessThanOrEqual" constant="80" id="F9y-08-YzT"/>
+                            <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="80" id="HAc-dd-pny"/>
+                            <constraint firstAttribute="height" constant="80" id="XVG-QU-Io4"/>
+                        </constraints>
+                        <string key="text">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</string>
+                        <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                        <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                    </textView>
+                    <textView clipsSubviews="YES" multipleTouchEnabled="YES" tag="2" contentMode="scaleToFill" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="91K-fR-dgE">
+                        <rect key="frame" x="90" y="181" width="210" height="80"/>
+                        <color key="backgroundColor" red="0.72118395960000004" green="1" blue="0.42207131139999998" alpha="1" colorSpace="calibratedRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="80" id="29U-op-vbk"/>
+                            <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="80" id="VWC-3g-4Wj"/>
+                        </constraints>
+                        <string key="text">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</string>
+                        <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                        <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                    </textView>
+                    <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="50" translatesAutoresizingMaskIntoConstraints="NO" id="15h-K2-lBe">
+                        <rect key="frame" x="20" y="20" width="30" height="351"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" ambiguous="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="iFk-kO-EQU">
+                                <rect key="frame" x="0.0" y="0.0" width="30" height="31"/>
+                                <color key="backgroundColor" red="1" green="0.0" blue="0.50196081400000003" alpha="1" colorSpace="calibratedRGB"/>
+                                <state key="normal" title="日期">
+                                    <color key="titleColor" red="0.94641131889999996" green="0.94451038649999997" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                </state>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" ambiguous="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="tp7-1z-Ni3">
+                                <rect key="frame" x="0.0" y="81" width="30" height="30"/>
+                                <color key="backgroundColor" red="1" green="0.0" blue="0.50196081400000003" alpha="1" colorSpace="calibratedRGB"/>
+                                <state key="normal" title="健康">
+                                    <color key="titleColor" red="0.9464113189044302" green="0.94451038647142549" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                </state>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" ambiguous="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="TqG-KD-bJ0">
+                                <rect key="frame" x="0.0" y="161" width="30" height="30"/>
+                                <color key="backgroundColor" red="1" green="0.0" blue="0.50196081400000003" alpha="1" colorSpace="calibratedRGB"/>
+                                <state key="normal" title="爱情">
+                                    <color key="titleColor" red="0.94641131889999996" green="0.94451038649999997" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                    <color key="titleShadowColor" red="0.94641131889999996" green="0.94451038649999997" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                </state>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" ambiguous="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="FuR-TQ-NHd">
+                                <rect key="frame" x="0.0" y="241" width="30" height="30"/>
+                                <color key="backgroundColor" red="1" green="0.0" blue="0.50196081400000003" alpha="1" colorSpace="calibratedRGB"/>
+                                <state key="normal" title="财运">
+                                    <color key="titleColor" red="0.94641131889999996" green="0.94451038649999997" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                    <color key="titleShadowColor" red="1" green="0.0" blue="0.50196081400000003" alpha="1" colorSpace="calibratedRGB"/>
+                                </state>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" ambiguous="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="N6r-4R-jy1">
+                                <rect key="frame" x="0.0" y="321" width="30" height="30"/>
+                                <color key="backgroundColor" red="1" green="0.0" blue="0.50196081400000003" alpha="1" colorSpace="calibratedRGB"/>
+                                <state key="normal" title="工作">
+                                    <color key="titleColor" red="0.94641131889999996" green="0.94451038649999997" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                </state>
+                            </button>
+                        </subviews>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="30" id="28K-na-akz"/>
+                        </constraints>
+                    </stackView>
+                    <textField opaque="NO" clipsSubviews="YES" tag="5" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="xSu-pY-wlc">
+                        <rect key="frame" x="90" y="20" width="210" height="30"/>
+                        <color key="backgroundColor" red="1" green="0.69127573753275484" blue="0.85658048816704346" alpha="1" colorSpace="calibratedRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="30" id="hL2-Nt-Qg5"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                        <textInputTraits key="textInputTraits"/>
+                    </textField>
+                    <textView clipsSubviews="YES" multipleTouchEnabled="YES" tag="1" contentMode="scaleToFill" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="n8x-Da-2Md">
+                        <rect key="frame" x="90" y="100" width="210" height="80"/>
+                        <color key="backgroundColor" red="1" green="0.87287657630000004" blue="0.71825949219999996" alpha="1" colorSpace="calibratedRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="80" id="gsH-i0-qdx"/>
+                        </constraints>
+                        <string key="text">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</string>
+                        <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                        <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                    </textView>
+                    <textView clipsSubviews="YES" multipleTouchEnabled="YES" tag="4" contentMode="scaleToFill" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="SAg-hA-b1M">
+                        <rect key="frame" x="90" y="343" width="210" height="80"/>
+                        <color key="backgroundColor" red="0.78531524643658568" green="0.62869621580654933" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="height" relation="lessThanOrEqual" constant="80" id="9u9-uf-ONu"/>
+                            <constraint firstAttribute="height" relation="lessThanOrEqual" constant="80" id="Tyx-MY-4fu"/>
+                            <constraint firstAttribute="height" constant="80" id="kmB-WN-4wF"/>
+                            <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="80" id="ngv-Is-rrp"/>
+                        </constraints>
+                        <string key="text">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</string>
+                        <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                        <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                    </textView>
+                </subviews>
+                <constraints>
+                    <constraint firstAttribute="trailing" secondItem="SAg-hA-b1M" secondAttribute="trailing" constant="20" id="0Wz-av-NzY"/>
+                    <constraint firstItem="n8x-Da-2Md" firstAttribute="top" secondItem="xSu-pY-wlc" secondAttribute="bottom" constant="50" id="8ib-5k-UXN"/>
+                    <constraint firstItem="xSu-pY-wlc" firstAttribute="leading" secondItem="15h-K2-lBe" secondAttribute="trailing" constant="40" id="8lA-ur-4AK"/>
+                    <constraint firstItem="tfr-9k-8du" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" id="Ckd-cd-dqC"/>
+                    <constraint firstItem="vPe-0D-TSW" firstAttribute="leading" secondItem="15h-K2-lBe" secondAttribute="trailing" constant="40" id="Gkv-0p-SsR"/>
+                    <constraint firstAttribute="trailing" secondItem="n8x-Da-2Md" secondAttribute="trailing" constant="20" id="GmY-L5-ymF"/>
+                    <constraint firstItem="n8x-Da-2Md" firstAttribute="leading" secondItem="15h-K2-lBe" secondAttribute="trailing" constant="40" id="TiL-6q-7f3"/>
+                    <constraint firstItem="91K-fR-dgE" firstAttribute="leading" secondItem="15h-K2-lBe" secondAttribute="trailing" constant="40" id="YKN-tJ-Xaa"/>
+                    <constraint firstAttribute="trailing" secondItem="tfr-9k-8du" secondAttribute="trailing" id="ZrJ-xK-TH1"/>
+                    <constraint firstItem="91K-fR-dgE" firstAttribute="top" secondItem="n8x-Da-2Md" secondAttribute="bottom" constant="1" id="d9h-fM-3YP"/>
+                    <constraint firstItem="tfr-9k-8du" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" id="dF6-NY-3HN"/>
+                    <constraint firstItem="SAg-hA-b1M" firstAttribute="top" secondItem="vPe-0D-TSW" secondAttribute="bottom" constant="1" id="dYM-bB-eeH"/>
+                    <constraint firstAttribute="trailing" secondItem="vPe-0D-TSW" secondAttribute="trailing" constant="20" id="eav-yr-5tD"/>
+                    <constraint firstAttribute="trailing" secondItem="xSu-pY-wlc" secondAttribute="trailing" constant="20" id="gjE-4X-Z9N"/>
+                    <constraint firstItem="15h-K2-lBe" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="20" id="hZ3-cx-kF3"/>
+                    <constraint firstItem="vPe-0D-TSW" firstAttribute="top" secondItem="91K-fR-dgE" secondAttribute="bottom" constant="1" id="i1y-6Y-5qv"/>
+                    <constraint firstItem="15h-K2-lBe" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="20" id="nJE-Jt-qgq"/>
+                    <constraint firstAttribute="bottom" secondItem="15h-K2-lBe" secondAttribute="bottom" constant="78" id="qbe-JV-NdD"/>
+                    <constraint firstItem="xSu-pY-wlc" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="20" id="tg7-EQ-ymq"/>
+                    <constraint firstAttribute="trailing" secondItem="91K-fR-dgE" secondAttribute="trailing" constant="20" id="yBk-Jc-1sN"/>
+                    <constraint firstItem="SAg-hA-b1M" firstAttribute="leading" secondItem="15h-K2-lBe" secondAttribute="trailing" constant="40" id="yIx-3O-YN3"/>
+                    <constraint firstAttribute="bottom" secondItem="tfr-9k-8du" secondAttribute="bottom" id="zGh-d3-8wp"/>
+                </constraints>
+            </tableViewCellContentView>
+            <point key="canvasLocation" x="245" y="199.5"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="星座3.gif" width="250" height="250"/>
+    </resources>
+</document>

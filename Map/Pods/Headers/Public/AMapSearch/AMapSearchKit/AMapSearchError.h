@@ -1,0 +1,5 @@
+XSym
+0072
+84a6cd06feff1a83b880cf0c694be12b
+../../../../AMapSearch/AMapSearchKit.framework/Headers/AMapSearchError.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       

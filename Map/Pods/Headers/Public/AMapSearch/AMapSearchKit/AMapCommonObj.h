@@ -1,0 +1,5 @@
+XSym
+0070
+e60542076985c820c1beae07333ceb14
+../../../../AMapSearch/AMapSearchKit.framework/Headers/AMapCommonObj.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

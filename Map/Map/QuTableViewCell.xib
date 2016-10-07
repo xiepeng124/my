@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="10117" systemVersion="15G31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" restorationIdentifier="Qutablecell" selectionStyle="default" indentationWidth="10" rowHeight="163" id="KGk-i7-Jjw" customClass="QuTableViewCell">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="160"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="159.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <webView tag="1" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Xh5-hc-18Q">
+                        <rect key="frame" x="170" y="0.0" width="150" height="159.5"/>
+                        <color key="backgroundColor" red="0.36078431370000003" green="0.38823529410000002" blue="0.4039215686" alpha="1" colorSpace="deviceRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="150" id="kXI-Wx-iKB"/>
+                        </constraints>
+                        <connections>
+                            <outlet property="delegate" destination="-1" id="hvH-Sg-0ZP"/>
+                        </connections>
+                    </webView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="lsE-Lb-CEI">
+                        <rect key="frame" x="0.0" y="0.0" width="100" height="159.5"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="100" id="OrN-vL-hVR"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+                <constraints>
+                    <constraint firstAttribute="trailing" secondItem="Xh5-hc-18Q" secondAttribute="trailing" id="7QU-TQ-scO"/>
+                    <constraint firstAttribute="bottom" secondItem="Xh5-hc-18Q" secondAttribute="bottom" id="M85-fC-A2G"/>
+                    <constraint firstItem="lsE-Lb-CEI" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" id="SLs-AK-nm2"/>
+                    <constraint firstItem="lsE-Lb-CEI" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" id="kqX-IH-TPv"/>
+                    <constraint firstItem="Xh5-hc-18Q" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" id="krG-78-ao0"/>
+                    <constraint firstAttribute="bottom" secondItem="lsE-Lb-CEI" secondAttribute="bottom" id="mZ5-OE-ZKT"/>
+                </constraints>
+            </tableViewCellContentView>
+            <point key="canvasLocation" x="38" y="202"/>
+        </tableViewCell>
+    </objects>
+</document>

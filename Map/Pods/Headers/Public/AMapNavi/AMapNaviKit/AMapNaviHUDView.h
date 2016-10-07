@@ -1,0 +1,5 @@
+XSym
+0068
+c63f8e786c24589d226f1cf43b378107
+../../../../AMapNavi/AMapNaviKit.framework/Headers/AMapNaviHUDView.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

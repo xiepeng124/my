@@ -1,0 +1,5 @@
+XSym
+0060
+fff750df007e7c445f5df0e223ec720b
+../../../../AMap3DMap/MAMapKit.framework/Headers/MAPolygon.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   

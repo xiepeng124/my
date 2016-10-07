@@ -1,0 +1,5 @@
+XSym
+0074
+815008ffe4e9eafad8e779da9b86814d
+../../../../AMapSearch/AMapSearchKit.framework/Headers/AMapSearchVersion.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

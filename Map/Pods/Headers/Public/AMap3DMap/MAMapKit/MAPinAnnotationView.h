@@ -1,0 +1,5 @@
+XSym
+0070
+3bfba8f5ffe02a3f576da1868bec18f9
+../../../../AMap3DMap/MAMapKit.framework/Headers/MAPinAnnotationView.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

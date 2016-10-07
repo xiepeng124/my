@@ -1,0 +1,5 @@
+XSym
+0081
+269c74c2eb0793ad48d4cdf9e421287b
+../../../../AMap3DMap/MAMapKit.framework/Headers/MAMultiColoredPolylineRenderer.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

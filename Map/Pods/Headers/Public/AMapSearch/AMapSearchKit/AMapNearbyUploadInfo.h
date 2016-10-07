@@ -1,0 +1,5 @@
+XSym
+0077
+7919508ae1ec7797b5f43851e8480d0b
+../../../../AMapSearch/AMapSearchKit.framework/Headers/AMapNearbyUploadInfo.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

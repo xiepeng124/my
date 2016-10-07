@@ -1,0 +1,5 @@
+XSym
+0083
+e4210707d0ab114eb45e7e5f68e0d7e6
+../../../../AMapNavi/AMapNaviKit.framework/Headers/AMapNaviDriveDataRepresentable.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

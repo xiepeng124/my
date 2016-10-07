@@ -1,0 +1,5 @@
+XSym
+0078
+d1dded05207142ca8b0aec64dc41fbf3
+../../../../AMapFoundation/AMapFoundationKit.framework/Headers/AMapURLSearch.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

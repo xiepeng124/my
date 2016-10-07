@@ -1,0 +1,5 @@
+XSym
+0061
+dab06f6b2456b7e7373ce4b328b91376
+../../../../AMap3DMap/MAMapKit.framework/Headers/MATouchPoi.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

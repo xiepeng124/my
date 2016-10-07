@@ -1,0 +1,5 @@
+XSym
+0068
+30bf114eee8628ff013da09f1710f557
+../../../../AMap3DMap/MAMapKit.framework/Headers/MAPointAnnotation.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

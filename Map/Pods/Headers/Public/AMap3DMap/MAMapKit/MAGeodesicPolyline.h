@@ -1,0 +1,5 @@
+XSym
+0069
+d17ed583076c7acbf1049dd08491255b
+../../../../AMap3DMap/MAMapKit.framework/Headers/MAGeodesicPolyline.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

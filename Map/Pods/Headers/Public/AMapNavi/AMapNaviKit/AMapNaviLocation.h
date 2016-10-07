@@ -1,0 +1,5 @@
+XSym
+0069
+15fae069a72143f4b855d1fc4e0407f4
+../../../../AMapNavi/AMapNaviKit.framework/Headers/AMapNaviLocation.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

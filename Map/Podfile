@@ -1,0 +1,9 @@
+platform :ios, '9.0'
+target 'Map’ do
+pod 'AMap3DMap'
+pod 'AMapSearch'
+pod 'PopMenu'
+pod 'AMapNavi'
+pod 'AFNetworking'
+pod 'PNChart'
+end

@@ -1,0 +1,5 @@
+XSym
+0063
+8e805c1f98c0e9e72dd740f381e160d5
+../../../../AMap3DMap/MAMapKit.framework/Headers/MAMultiPoint.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

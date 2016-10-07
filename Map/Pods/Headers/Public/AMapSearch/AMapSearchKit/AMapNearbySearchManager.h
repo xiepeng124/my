@@ -1,0 +1,5 @@
+XSym
+0080
+4f4d6773a2fe6289a184367f440f6db0
+../../../../AMapSearch/AMapSearchKit.framework/Headers/AMapNearbySearchManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

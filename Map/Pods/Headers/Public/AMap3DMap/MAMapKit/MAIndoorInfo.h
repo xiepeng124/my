@@ -1,0 +1,5 @@
+XSym
+0063
+c97a8ff98a11609dc7592360144f57c3
+../../../../AMap3DMap/MAMapKit.framework/Headers/MAIndoorInfo.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
